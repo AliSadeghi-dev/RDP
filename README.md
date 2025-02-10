@@ -3,7 +3,7 @@
 
 
 
-This  guide explains how to set up a **free Windows VPS** using **GitHub Actions** with **ngrok** for RDP access. Follow the steps below to replicate the workflow.
+This  guide explains how to set up a **free Windows VPS** using **GitHub Actions** with  **ngrok** for RDP access. Follow the steps below to replicate the workflow.
 
 ---
 
